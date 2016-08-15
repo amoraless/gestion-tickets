@@ -1,0 +1,6 @@
+1.- el sistema debe contar con roles para asignar a un  usuario. 
+2.- el sistema debe contar con un reporte de los tickets.
+3.- el sistema debe contar con modulos, para poder distribuir mejor las interfaces.
+4.- el sistema debe contar con seguimiento adecuado de los tickets.
+5.- el sistema debe contar con un eliminado lógico para no perder la información que contienen los tickets.
+6.- el sistema debe contar con un menú para una fácil navegación.

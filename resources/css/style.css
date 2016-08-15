@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+
+.ds-nn{
+	display: none;
+}
+.body_form{
+	display: inline-block;
+	width: 600px;
+}
+.body_form div{
+	text-align: left;
+}
+select[name='ls_filtro']{
+	width: 0px;
+	display: inline-block;
+}

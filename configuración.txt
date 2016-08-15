@@ -1,0 +1,6 @@
+1.- debe configurar el archivo app/db/conectin.php 
+	$host = 'servidor';
+	$db   = 'nombre de base de datos';
+	$user = 'usuario';
+	$pass = 'contraseña';
+2.- ejecutar el script de la base de datos gestion_tickets.sql
